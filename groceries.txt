@@ -6,6 +6,6 @@ rice
 avocato
 beer
 wine
-eggs
+12 eggs for mom to make pudding
 yogurt
 butter
