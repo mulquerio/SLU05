@@ -1,0 +1,10 @@
+oat
+bananas
+beef
+other fruit
+rice
+avocato
+beer
+wine
+eggs
+yogurt
